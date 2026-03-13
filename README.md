@@ -1,0 +1,2 @@
+# BioSentinal-AI-Powered-Bio-Signal-Triage-False-Alarm-Detection-System
+BioSentinel is an AI-powered biomedical monitoring system that analyzes multi-vital biosignals such as heart rate, SpO₂, ECG, temperature, and motion to detect abnormal conditions and reduce false alarms. It integrates biomedical sensors, an ESP32 microcontroller, and machine learning to classify alerts and visualize real-time patient data.
